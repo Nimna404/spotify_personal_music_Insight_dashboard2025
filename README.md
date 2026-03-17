@@ -1,9 +1,10 @@
-🎧 Spotify Global Hit Analysis: Decoding the Audio Footprint of 2025
+🎧 Algorithmic Mirror: Decoding My Spotify Audio Footprint (2025)
+
 Status: 🚧 Currently in Development (ETL Phase)
 
 Project Overview
 
-What makes a song go viral? Using a dataset of the top 50 global Spotify tracks of 2025, this project aims to reverse-engineer the "audio footprint" of a hit song. By analyzing metadata such as Danceability, Energy, Valence, and Tempo, I am building an end-to-end data pipeline to uncover the musical patterns of global popularity.
+Spotify's recommendation algorithm claims to know our musical tastes perfectly. But what does that taste actually look like in raw data? Using an export of my top algorithmic Spotify tracks, this project reverse-engineers my personal "audio footprint." By analyzing metadata such as Danceability, Energy, Valence, and Tempo, I am building an end-to-end data pipeline to uncover the acoustic patterns that drive my listening habits.
 
 The Tech Stack
 
@@ -12,9 +13,8 @@ Data Cleaning & ETL: Python (Pandas) accelerated via Generative AI and Prompt En
 Visualization: Microsoft Power BI (DAX, Data Modeling)
 
 The Data Dictionary
-
 The raw dataset includes 24 columns. Key metrics include:
-Danceability: How suitable a track is for dancing (0.0 to 1.0).
-Energy: Perceptual measure of intensity and activity.
-Valence: The musical positiveness conveyed by a track.
-Popularity: Spotify's algorithmic ranking.
+                                                         Danceability: How suitable a track is for dancing (0.0 to 1.0).
+                                                         Energy: Perceptual measure of intensity and activity.
+                                                         Valence: The musical positiveness conveyed by a track.
+                                                         Popularity: Spotify's algorithmic ranking.
