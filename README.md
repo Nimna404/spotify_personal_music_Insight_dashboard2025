@@ -54,3 +54,11 @@ The Vibe Matrix reveals that my recommendation engine establishes a strict "ener
 🚀 Future Scope (V2)
 
 Because this initial analysis relies on a sample of top algorithmic tracks, future iterations will focus on scaling the dataset to improve statistical significance. I plan to replace Exportify with a direct Python API connection (`Spotipy` library) to fully automate the ETL pipeline and process my lifetime Spotify streaming history (10,000+ records).
+
+
+📖 [Read the full formatted Case Study and UI breakdown on Notion](https://chestnut-ridge-3be.notion.site/Project-01-Algorithmic-Mirror-Decoding-My-Spotify-Audio-Footprint-2025-326a927116ea8031842fd483ad1aa26c?source=copy_link)) 📖
+
+
+© 2026 [Nimna D Aluthgamage]. All Rights Reserved.
+Data and insights are based on a personal algorithmic footprint and are for portfolio demonstration purposes. Spotify is a trademark of Spotify AB.
+
